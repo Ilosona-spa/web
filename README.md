@@ -19,8 +19,8 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](www.google.com) and ![Image](https://cdn131.picsart.com/312394933049211.png?type=webp&to=min&r=640)
-```
+[Google](www.google.com) and ![Image](https://cdn131.picsart.com/312394933049211.png?type=webp&to=min&r=640)
+
 
 
 
