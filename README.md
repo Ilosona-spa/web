@@ -1,4 +1,6 @@
-## Bienvenido a mi juego **player**
+### Bienvenido a mi juego 
+
+**player**
 
 
 ### Markdown
@@ -17,10 +19,9 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.google.com) and ![Image](https://cdn131.picsart.com/312394933049211.png?type=webp&to=min&r=640)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 
