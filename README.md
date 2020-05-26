@@ -1,25 +1,30 @@
-### Bienvenido a mi juego 
+### Bienvenido al Test covid19
 
-**player**
+**Usuario**
 
 
-### Markdown
+### Esta informacion es netamente referencial 
 
 
 
 # Header 1
-## Header 2
-##### Header 3
+
+
 
 - Bulleted
 - List
 
+## Header 2
+
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+### Header 3
 
-[Google](www.google.com) and ![Image](https://cdn131.picsart.com/312394933049211.png?type=webp&to=min&r=640)
+
+
+
+[Image](https://cdn131.picsart.com/312394933049211.png?type=webp&to=min&r=640)
 
 
 
